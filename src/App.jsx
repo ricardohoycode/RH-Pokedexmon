@@ -1,6 +1,6 @@
 import { Route, Routes } from 'react-router-dom'
 import Layout from './components/Layout'
-import Login from './components/Login'
+import Login from './components/Loginn'
 import Pokedex from './components/Pokedex'
 import Pokemon from './components/Pokemon'
 
